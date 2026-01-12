@@ -55,6 +55,6 @@
   ],
   "agents": [
     "./agents/outline-validator.md",
-    "./agents/visual-suggester.md",
+    "./agents/visual-suggester.md"
   ]
 }
